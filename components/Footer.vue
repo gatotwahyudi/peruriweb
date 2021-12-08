@@ -1,0 +1,7 @@
+<template>
+  <footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
+      <span class="text-muted">Copyright &copy; 2001 - BIMTEK PERURI</span>
+    </div>
+  </footer>
+</template>
